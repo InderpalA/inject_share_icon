@@ -7,3 +7,4 @@ The Path element is then appended as a child of the SVG, which gets appended as 
 Positioned on the page accordingly
 
 ## Image
+![image](https://github.com/InderpalA/inject_share_icon/assets/107916729/e9b525cf-fc6c-4e41-bde5-6a2b100ec6c9)
