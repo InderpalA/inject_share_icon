@@ -1,6 +1,8 @@
 # inject_share_icon
 
 ## Description
+This snippet is to create a social share and inject into position using JS.
+Using "Telegram" in this example.
 This code first gets all of the instances of "div.widget__shares.share-panel" from the DOM.
 If there is more than one instance, the createTelegram function will first create the share icon, then create the SVG element and then create the Path element.
 The Path element is then appended as a child of the SVG, which gets appended as a child of the <a>
